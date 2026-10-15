@@ -71303,7 +71303,7 @@
     ],
     "published_at": "2026-07-02T12:50:00Z",
     "updated_at": "2026-07-02T12:50:19Z",
-    "downloaded_at": "2026-10-09T19:36:42Z"
+    "downloaded_at": "2026-10-15T19:34:36Z"
   },
   {
     "page_name": "mm-apf-2026-07-03",
@@ -71314,7 +71314,7 @@
     ],
     "published_at": "2026-07-03T07:00:00Z",
     "updated_at": "2026-07-03T07:00:05Z",
-    "downloaded_at": "2026-10-09T19:36:37Z"
+    "downloaded_at": "2026-10-15T19:34:34Z"
   },
   {
     "page_name": "mm-int-2026-07-03",
@@ -71926,7 +71926,7 @@
     ],
     "published_at": "2026-10-02T15:00:00Z",
     "updated_at": "2026-10-02T14:59:37Z",
-    "downloaded_at": "2026-10-09T19:33:49Z"
+    "downloaded_at": "2026-10-15T19:34:27Z"
   },
   {
     "page_name": "newsletter-erd-4-2026",
@@ -71938,7 +71938,7 @@
     ],
     "published_at": "2026-10-02T15:00:00Z",
     "updated_at": "2026-10-06T09:24:26Z",
-    "downloaded_at": "2026-10-09T19:33:52Z"
+    "downloaded_at": "2026-10-15T19:34:30Z"
   },
   {
     "page_name": "mm-efta-2026-10-05",
@@ -71961,7 +71961,7 @@
     ],
     "published_at": "2026-10-05T15:00:00Z",
     "updated_at": "2026-10-05T15:01:17Z",
-    "downloaded_at": "2026-10-09T19:33:46Z"
+    "downloaded_at": "2026-10-15T19:34:24Z"
   },
   {
     "page_name": "mm-Del-I-2026-10-08",
@@ -72007,7 +72007,7 @@
     ],
     "published_at": "2026-10-13T13:40:00Z",
     "updated_at": "2026-10-13T13:40:19Z",
-    "downloaded_at": "2026-10-13T19:33:22Z"
+    "downloaded_at": "2026-10-15T19:34:42Z"
   },
   {
     "page_name": "mm-wak-s-2026-10-13",
@@ -72018,7 +72018,7 @@
     ],
     "published_at": "2026-10-13T14:40:00Z",
     "updated_at": "2026-10-13T14:40:17Z",
-    "downloaded_at": "2026-10-13T19:33:20Z"
+    "downloaded_at": "2026-10-15T19:34:40Z"
   },
   {
     "page_name": "mm-sik-n-2026-10-13",
@@ -72029,6 +72029,18 @@
     ],
     "published_at": "2026-10-13T15:55:00Z",
     "updated_at": "2026-10-13T16:17:24Z",
-    "downloaded_at": "2026-10-13T19:33:19Z"
+    "downloaded_at": "2026-10-15T19:34:38Z"
+  },
+  {
+    "page_name": "mm-erd-2026-10-15",
+    "languages": [
+      "de",
+      "fr",
+      "it",
+      "en"
+    ],
+    "published_at": "2026-10-15T11:40:00Z",
+    "updated_at": "2026-10-15T11:52:21Z",
+    "downloaded_at": "2026-10-15T19:34:45Z"
   }
 ]
