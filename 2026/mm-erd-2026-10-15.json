@@ -2,7 +2,7 @@
   "url": "https://www.parlament.ch/press-releases/Pages/mm-erd-2026-10-15.aspx",
   "published_at": "2026-10-15T11:40:00Z",
   "updated_at": "2026-10-15T11:52:21Z",
-  "downloaded_at": "2026-10-15T19:34:45Z",
+  "downloaded_at": "2026-10-17T19:34:17Z",
   "languages": [
     "de",
     "fr",
@@ -98,7 +98,7 @@
     "contentclass": "STS_ListItem_850",
     "deeplinks": null,
     "docaclmeta": null,
-    "importance": null,
+    "importance": 0,
     "owstaxIdNewsType": "GP0|#35350bd0-5844-4d61-a634-3481d341c7f6;L0|#035350bd0-5844-4d61-a634-3481d341c7f6|Press release;GTSet|#f78b0bc1-28f5-43e2-9d88-106bab0d7c9f"
   }
 }
