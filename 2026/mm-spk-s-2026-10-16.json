@@ -2,7 +2,7 @@
   "url": "https://www.parlament.ch/press-releases/Pages/mm-spk-s-2026-10-16.aspx",
   "published_at": "2026-10-16T15:30:00Z",
   "updated_at": "2026-10-16T15:32:24Z",
-  "downloaded_at": "2026-10-16T19:34:29Z",
+  "downloaded_at": "2026-10-18T20:04:07Z",
   "languages": [
     "de",
     "fr",
@@ -95,7 +95,7 @@
     "contentclass": "STS_ListItem_850",
     "deeplinks": null,
     "docaclmeta": null,
-    "importance": null,
+    "importance": 0,
     "owstaxIdNewsType": "GP0|#35350bd0-5844-4d61-a634-3481d341c7f6;L0|#035350bd0-5844-4d61-a634-3481d341c7f6|Press release;GTSet|#f78b0bc1-28f5-43e2-9d88-106bab0d7c9f"
   }
 }
