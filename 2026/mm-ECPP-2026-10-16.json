@@ -2,7 +2,7 @@
   "url": "https://www.parlament.ch/press-releases/Pages/mm-ECPP-2026-10-16.aspx",
   "published_at": "2026-10-16T15:00:00Z",
   "updated_at": "2026-10-19T09:12:37Z",
-  "downloaded_at": "2026-10-19T19:34:25Z",
+  "downloaded_at": "2026-10-20T19:34:27Z",
   "languages": [
     "de",
     "fr",
@@ -98,7 +98,7 @@
     "contentclass": "STS_ListItem_850",
     "deeplinks": null,
     "docaclmeta": null,
-    "importance": null,
+    "importance": 0,
     "owstaxIdNewsType": "GP0|#12ff52ad-55d6-4f29-b479-7e69efe4c6fa;L0|#012ff52ad-55d6-4f29-b479-7e69efe4c6fa|Visits made abroad;GTSet|#f78b0bc1-28f5-43e2-9d88-106bab0d7c9f"
   }
 }
