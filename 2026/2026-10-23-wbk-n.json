@@ -2,7 +2,7 @@
   "url": "https://www.parlament.ch/press-releases/Pages/2026-10-23-wbk-n.aspx",
   "published_at": "2026-10-23T14:00:00Z",
   "updated_at": "2026-10-23T13:57:57Z",
-  "downloaded_at": "2026-10-23T19:34:31Z",
+  "downloaded_at": "2026-10-25T21:03:01Z",
   "languages": [
     "de",
     "fr"
@@ -92,7 +92,7 @@
     "contentclass": "STS_ListItem_850",
     "deeplinks": null,
     "docaclmeta": null,
-    "importance": null,
+    "importance": 0,
     "owstaxIdNewsType": "GP0|#35350bd0-5844-4d61-a634-3481d341c7f6;L0|#035350bd0-5844-4d61-a634-3481d341c7f6|Press release;GTSet|#f78b0bc1-28f5-43e2-9d88-106bab0d7c9f"
   }
 }
