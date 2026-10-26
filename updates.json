@@ -72191,11 +72191,12 @@
     "page_name": "2026-10-23-wbk-n",
     "languages": [
       "de",
-      "fr"
+      "fr",
+      "it"
     ],
     "published_at": "2026-10-23T14:00:00Z",
-    "updated_at": "2026-10-23T13:57:57Z",
-    "downloaded_at": "2026-10-25T21:03:01Z"
+    "updated_at": "2026-10-26T13:36:43Z",
+    "downloaded_at": "2026-10-26T20:34:19Z"
   },
   {
     "page_name": "mm-spk-n-2026-10-23",
@@ -72212,11 +72213,12 @@
     "page_name": "mm-wbk-n-2026-10-23",
     "languages": [
       "de",
-      "fr"
+      "fr",
+      "it"
     ],
     "published_at": "2026-10-23T14:45:00Z",
-    "updated_at": "2026-10-23T14:45:15Z",
-    "downloaded_at": "2026-10-25T21:02:56Z"
+    "updated_at": "2026-10-26T13:45:14Z",
+    "downloaded_at": "2026-10-26T20:34:18Z"
   },
   {
     "page_name": "mm-fk-s-2026-10-23",
@@ -72228,5 +72230,16 @@
     "published_at": "2026-10-23T15:30:00Z",
     "updated_at": "2026-10-23T15:51:33Z",
     "downloaded_at": "2026-10-25T21:02:54Z"
+  },
+  {
+    "page_name": "mm-spk-n-2026-10-26",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "published_at": "2026-10-26T11:55:00Z",
+    "updated_at": "2026-10-26T11:56:10Z",
+    "downloaded_at": "2026-10-26T20:34:21Z"
   }
 ]
