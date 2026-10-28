@@ -72240,7 +72240,7 @@
     ],
     "published_at": "2026-10-26T11:55:00Z",
     "updated_at": "2026-10-26T11:56:10Z",
-    "downloaded_at": "2026-10-26T20:34:21Z"
+    "downloaded_at": "2026-10-28T20:34:36Z"
   },
   {
     "page_name": "mm-sik-s-2026-10-27",
@@ -72251,7 +72251,7 @@
     ],
     "published_at": "2026-10-27T11:20:00Z",
     "updated_at": "2026-10-27T11:21:39Z",
-    "downloaded_at": "2026-10-27T20:34:22Z"
+    "downloaded_at": "2026-10-28T20:34:39Z"
   },
   {
     "page_name": "mm-urek-s-2026-10-27",
@@ -72274,5 +72274,38 @@
     "published_at": "2026-10-27T17:45:00Z",
     "updated_at": "2026-10-27T17:44:15Z",
     "downloaded_at": "2026-10-27T20:34:19Z"
+  },
+  {
+    "page_name": "mm-wak-n-2026-10-28",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "published_at": "2026-10-28T09:30:00Z",
+    "updated_at": "2026-10-28T10:29:51Z",
+    "downloaded_at": "2026-10-28T20:34:43Z"
+  },
+  {
+    "page_name": "mm-wak-n-eu-2026-10-28",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "published_at": "2026-10-28T09:30:00Z",
+    "updated_at": "2026-10-28T09:32:41Z",
+    "downloaded_at": "2026-10-28T20:34:44Z"
+  },
+  {
+    "page_name": "mm-urek-s-2026-10-28",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "published_at": "2026-10-28T10:15:00Z",
+    "updated_at": "2026-10-28T10:09:31Z",
+    "downloaded_at": "2026-10-28T20:34:41Z"
   }
 ]

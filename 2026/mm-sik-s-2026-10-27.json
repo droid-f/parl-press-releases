@@ -2,7 +2,7 @@
   "url": "https://www.parlament.ch/press-releases/Pages/mm-sik-s-2026-10-27.aspx",
   "published_at": "2026-10-27T11:20:00Z",
   "updated_at": "2026-10-27T11:21:39Z",
-  "downloaded_at": "2026-10-27T20:34:22Z",
+  "downloaded_at": "2026-10-28T20:34:39Z",
   "languages": [
     "de",
     "fr",
@@ -95,7 +95,7 @@
     "contentclass": "STS_ListItem_850",
     "deeplinks": null,
     "docaclmeta": null,
-    "importance": null,
+    "importance": 0,
     "owstaxIdNewsType": "GP0|#35350bd0-5844-4d61-a634-3481d341c7f6;L0|#035350bd0-5844-4d61-a634-3481d341c7f6|Press release;GTSet|#f78b0bc1-28f5-43e2-9d88-106bab0d7c9f"
   }
 }
