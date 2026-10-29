@@ -2,7 +2,7 @@
   "url": "https://www.parlament.ch/press-releases/Pages/mm-urek-s-2026-10-28.aspx",
   "published_at": "2026-10-28T10:15:00Z",
   "updated_at": "2026-10-28T10:09:31Z",
-  "downloaded_at": "2026-10-28T20:34:41Z",
+  "downloaded_at": "2026-10-29T20:34:42Z",
   "languages": [
     "de",
     "fr",
@@ -95,7 +95,7 @@
     "contentclass": "STS_ListItem_850",
     "deeplinks": null,
     "docaclmeta": null,
-    "importance": null,
+    "importance": 0,
     "owstaxIdNewsType": "GP0|#35350bd0-5844-4d61-a634-3481d341c7f6;L0|#035350bd0-5844-4d61-a634-3481d341c7f6|Press release;GTSet|#f78b0bc1-28f5-43e2-9d88-106bab0d7c9f"
   }
 }

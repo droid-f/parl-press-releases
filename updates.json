@@ -72262,7 +72262,7 @@
     ],
     "published_at": "2026-10-27T16:00:00Z",
     "updated_at": "2026-10-27T16:00:13Z",
-    "downloaded_at": "2026-10-27T20:34:21Z"
+    "downloaded_at": "2026-10-29T20:34:40Z"
   },
   {
     "page_name": "mm-fk-n-2026-10-27",
@@ -72273,7 +72273,7 @@
     ],
     "published_at": "2026-10-27T17:45:00Z",
     "updated_at": "2026-10-27T17:44:15Z",
-    "downloaded_at": "2026-10-27T20:34:19Z"
+    "downloaded_at": "2026-10-29T20:34:38Z"
   },
   {
     "page_name": "mm-wak-n-2026-10-28",
@@ -72284,7 +72284,7 @@
     ],
     "published_at": "2026-10-28T09:30:00Z",
     "updated_at": "2026-10-28T10:29:51Z",
-    "downloaded_at": "2026-10-28T20:34:43Z"
+    "downloaded_at": "2026-10-29T20:34:44Z"
   },
   {
     "page_name": "mm-wak-n-eu-2026-10-28",
@@ -72295,7 +72295,7 @@
     ],
     "published_at": "2026-10-28T09:30:00Z",
     "updated_at": "2026-10-28T09:32:41Z",
-    "downloaded_at": "2026-10-28T20:34:44Z"
+    "downloaded_at": "2026-10-29T20:34:46Z"
   },
   {
     "page_name": "mm-urek-s-2026-10-28",
@@ -72306,6 +72306,18 @@
     ],
     "published_at": "2026-10-28T10:15:00Z",
     "updated_at": "2026-10-28T10:09:31Z",
-    "downloaded_at": "2026-10-28T20:34:41Z"
+    "downloaded_at": "2026-10-29T20:34:42Z"
+  },
+  {
+    "page_name": "mm-int-2026-10-28",
+    "languages": [
+      "de",
+      "fr",
+      "it",
+      "en"
+    ],
+    "published_at": "2026-10-28T16:30:00Z",
+    "updated_at": "2026-10-29T16:54:38Z",
+    "downloaded_at": "2026-10-29T20:34:48Z"
   }
 ]
