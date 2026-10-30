@@ -72272,8 +72272,8 @@
       "it"
     ],
     "published_at": "2026-10-27T17:45:00Z",
-    "updated_at": "2026-10-27T17:44:15Z",
-    "downloaded_at": "2026-10-29T20:34:38Z"
+    "updated_at": "2026-10-30T12:58:29Z",
+    "downloaded_at": "2026-10-30T20:34:42Z"
   },
   {
     "page_name": "mm-wak-n-2026-10-28",
@@ -72317,7 +72317,74 @@
       "en"
     ],
     "published_at": "2026-10-28T16:30:00Z",
-    "updated_at": "2026-10-29T16:54:38Z",
-    "downloaded_at": "2026-10-29T20:34:48Z"
+    "updated_at": "2026-10-30T07:25:36Z",
+    "downloaded_at": "2026-10-30T20:34:45Z"
+  },
+  {
+    "page_name": "mm-int-2026-10-30",
+    "languages": [
+      "de",
+      "fr",
+      "it",
+      "en"
+    ],
+    "published_at": "2026-10-30T09:15:00Z",
+    "updated_at": "2026-10-30T09:15:07Z",
+    "downloaded_at": "2026-10-30T20:34:58Z"
+  },
+  {
+    "page_name": "mm-rk-n-2026-10-29",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "published_at": "2026-10-30T14:15:00Z",
+    "updated_at": "2026-10-30T14:15:48Z",
+    "downloaded_at": "2026-10-30T20:34:56Z"
+  },
+  {
+    "page_name": "mm-kvf-s-2026-10-30",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "published_at": "2026-10-30T14:30:00Z",
+    "updated_at": "2026-10-30T14:29:34Z",
+    "downloaded_at": "2026-10-30T20:34:52Z"
+  },
+  {
+    "page_name": "mm-apk-s-2026-10-30",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "published_at": "2026-10-30T15:00:00Z",
+    "updated_at": "2026-10-30T15:04:33Z",
+    "downloaded_at": "2026-10-30T20:34:50Z"
+  },
+  {
+    "page_name": "mm-sgk-n-2026-10-30",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "published_at": "2026-10-30T15:20:00Z",
+    "updated_at": "2026-10-30T15:31:40Z",
+    "downloaded_at": "2026-10-30T20:34:49Z"
+  },
+  {
+    "page_name": "mm-sgk-n-2026-10-30-eu",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "published_at": "2026-10-30T15:20:00Z",
+    "updated_at": "2026-10-30T15:21:23Z",
+    "downloaded_at": "2026-10-30T20:34:47Z"
   }
 ]

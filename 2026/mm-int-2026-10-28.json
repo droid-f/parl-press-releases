@@ -1,8 +1,8 @@
 {
   "url": "https://www.parlament.ch/press-releases/Pages/mm-int-2026-10-28.aspx",
   "published_at": "2026-10-28T16:30:00Z",
-  "updated_at": "2026-10-29T16:54:38Z",
-  "downloaded_at": "2026-10-29T20:34:48Z",
+  "updated_at": "2026-10-30T07:25:36Z",
+  "downloaded_at": "2026-10-30T20:34:45Z",
   "languages": [
     "de",
     "fr",
@@ -36,7 +36,7 @@
     "HitHighlightedSummary": "",
     "IsContainer": false,
     "IsDocument": true,
-    "LastModifiedTime": "/Date(1793292878000)/",
+    "LastModifiedTime": "/Date(1793345136000)/",
     "LinkingUrl": null,
     "OriginalPath": "https://www.parlament.ch/press-releases/Pages/mm-int-2026-10-28.aspx",
     "ParentLink": "https://www.parlament.ch/press-releases/Pages/Forms/AllItems.aspx",
@@ -94,7 +94,7 @@
     "UrlZone": 2,
     "WebTemplate": null,
     "WorkId": 386071,
-    "Write": "/Date(1793292878000)/",
+    "Write": "/Date(1793345136000)/",
     "contentclass": "STS_ListItem_850",
     "deeplinks": null,
     "docaclmeta": null,
