@@ -71987,6 +71987,17 @@
     "downloaded_at": "2026-10-13T19:33:16Z"
   },
   {
+    "page_name": "mm-ipu-2026-10-09",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "published_at": "2026-10-09T15:00:00Z",
+    "updated_at": "2026-11-09T15:48:10Z",
+    "downloaded_at": "2026-11-09T20:34:55Z"
+  },
+  {
     "page_name": "mm-int-2026-10-12",
     "languages": [
       "de",
@@ -72463,5 +72474,17 @@
     "published_at": "2026-11-06T15:45:00Z",
     "updated_at": "2026-11-06T15:41:50Z",
     "downloaded_at": "2026-11-08T21:04:20Z"
+  },
+  {
+    "page_name": "mm-int-2026-11-09",
+    "languages": [
+      "de",
+      "fr",
+      "it",
+      "en"
+    ],
+    "published_at": "2026-11-07T16:00:00Z",
+    "updated_at": "2026-11-09T16:12:06Z",
+    "downloaded_at": "2026-11-09T20:34:52Z"
   }
 ]
