@@ -1,8 +1,8 @@
 {
   "url": "https://www.parlament.ch/press-releases/Pages/mm-int-2026-11-09.aspx",
   "published_at": "2026-11-07T16:00:00Z",
-  "updated_at": "2026-11-09T16:12:06Z",
-  "downloaded_at": "2026-11-09T20:34:52Z",
+  "updated_at": "2026-11-10T07:00:48Z",
+  "downloaded_at": "2026-11-10T20:34:58Z",
   "languages": [
     "de",
     "fr",
@@ -36,7 +36,7 @@
     "HitHighlightedSummary": "",
     "IsContainer": false,
     "IsDocument": true,
-    "LastModifiedTime": "/Date(1794240726000)/",
+    "LastModifiedTime": "/Date(1794294048000)/",
     "LinkingUrl": null,
     "OriginalPath": "https://www.parlament.ch/press-releases/Pages/mm-int-2026-11-09.aspx",
     "ParentLink": "https://www.parlament.ch/press-releases/Pages/Forms/AllItems.aspx",
@@ -62,12 +62,12 @@
     "PdMMAuthorFR": "Présidences & Relations bilatérales",
     "PdMMAuthorIT": "Presidenza dei Consigli & Relazioni bilaterali",
     "PdMMAuthorRM": "Ratspräsidien & Bilaterales",
-    "PdNewsType": "Press release",
-    "PdNewsTypeDE": "Medienmitteilung",
-    "PdNewsTypeEN": "Press release",
-    "PdNewsTypeFR": "Communiqué de presse",
-    "PdNewsTypeIT": "Comunicato stampa",
-    "PdNewsTypeRM": "Communicaziun a las medias",
+    "PdNewsType": "Visits made abroad",
+    "PdNewsTypeDE": "Besuche im Ausland",
+    "PdNewsTypeEN": "Visits made abroad",
+    "PdNewsTypeFR": "Voyages officiels effectués à l'étranger",
+    "PdNewsTypeIT": "Visite all'estero",
+    "PdNewsTypeRM": "Visitas a l'exteriur",
     "PdTitleDe": "Offizieller Besuch des Nationalratspräsidenten in Nepal",
     "PdTitleEn": "Official visit by the president of the National Council to Nepal",
     "PdTitleFr": "Visite officielle du président du Conseil national au Népal",
@@ -94,11 +94,11 @@
     "UrlZone": 2,
     "WebTemplate": null,
     "WorkId": 403456,
-    "Write": "/Date(1794240726000)/",
+    "Write": "/Date(1794294048000)/",
     "contentclass": "STS_ListItem_850",
     "deeplinks": null,
     "docaclmeta": null,
     "importance": null,
-    "owstaxIdNewsType": "GP0|#35350bd0-5844-4d61-a634-3481d341c7f6;L0|#035350bd0-5844-4d61-a634-3481d341c7f6|Press release;GTSet|#f78b0bc1-28f5-43e2-9d88-106bab0d7c9f"
+    "owstaxIdNewsType": "GP0|#12ff52ad-55d6-4f29-b479-7e69efe4c6fa;L0|#012ff52ad-55d6-4f29-b479-7e69efe4c6fa|Visits made abroad;GTSet|#f78b0bc1-28f5-43e2-9d88-106bab0d7c9f"
   }
 }
