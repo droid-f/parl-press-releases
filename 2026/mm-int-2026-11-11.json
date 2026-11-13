@@ -2,7 +2,7 @@
   "url": "https://www.parlament.ch/press-releases/Pages/mm-int-2026-11-11.aspx",
   "published_at": "2026-11-11T14:45:00Z",
   "updated_at": "2026-11-11T14:45:10Z",
-  "downloaded_at": "2026-11-11T21:10:19Z",
+  "downloaded_at": "2026-11-13T20:35:38Z",
   "languages": [
     "de",
     "fr",
@@ -98,7 +98,7 @@
     "contentclass": "STS_ListItem_850",
     "deeplinks": null,
     "docaclmeta": null,
-    "importance": null,
+    "importance": 0,
     "owstaxIdNewsType": "GP0|#12ff52ad-55d6-4f29-b479-7e69efe4c6fa;L0|#012ff52ad-55d6-4f29-b479-7e69efe4c6fa|Visits made abroad;GTSet|#f78b0bc1-28f5-43e2-9d88-106bab0d7c9f"
   }
 }
